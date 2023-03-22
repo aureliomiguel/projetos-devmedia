@@ -1,0 +1,40 @@
+body{
+    background-color: #f5f5f5;
+    font-family: Tahoma;
+    text-align: center;
+    margin: auto;
+    line-height: 28px;
+    
+}
+
+div{
+    border-top: 1px dotted #d5d5d5;
+    margin: auto;
+    font-size: 16px;
+    padding: 50px 458px 60px 458px;
+
+}
+
+img{
+    
+    width: 190px;
+}
+
+p{
+    margin: 30px;
+    width: 930px;
+}
+
+a{
+    text-decoration: none;
+    background-color: #2b9c55;
+    color: #ffffff;
+    border-radius: 25px 25px;
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
